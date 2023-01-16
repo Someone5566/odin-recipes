@@ -1,1 +1,1 @@
-A simple html recipe website
+A simple html recipe website that I made to practice my basic html skills recommended to me by The Odin Project.
